@@ -4,7 +4,7 @@
 using namespace std;
 main()
 {
-student adina;
-adina.getcourselist();
-adina.showdata();
+student MAHNOOR;
+MAHNOOR.getcourselist();
+MAHNOOR.showdata();
 }

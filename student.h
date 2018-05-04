@@ -104,7 +104,7 @@ class student
   }
   void showattendance()
   {
-    cout>>"student name : ">>getname()>>endl;
+    cout>>"student name is : ">>getname()>>endl;
     cout>>"roll no : ">>getrollno()>>endl;
     cout>>"overall attendance in class is : ">>getattendance()>>endl;
   }
